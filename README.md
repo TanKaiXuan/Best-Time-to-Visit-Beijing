@@ -1,5 +1,18 @@
-### Description:
+## Best-Time-to-Visit-Beijing
 
-⋅⋅* A simple Shiny App that displays data of the weather inluding pm 2.5, temperature etc. in Beijing. Our goal is to find the best time to visit Beijing. 
+### Intro
 
-⋅⋅* Our data come from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data).
+Here we present an intuitive Shiny App to visualize the weather data of Beijing City. There are several features used to describe the weather of Beijing. We will find the optimal time to visit Beijing based on personal choices.
+
+**Shiny App & Presenter**
+
+* Shiny App: (https://stephen-cheng.shinyapps.io/Best-Time-to-Visit-Beijing/).
+
+**Rstudio Presenter**
+
+* Rstudio Presenter: (http://rpubs.com/stephen-cheng/445818)
+
+
+### Dataset
+
+* Our data come from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data).
