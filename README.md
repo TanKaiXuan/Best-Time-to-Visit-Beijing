@@ -10,7 +10,7 @@ Here we present an intuitive Shiny App to visualize the weather data of Beijing 
 
 **Rstudio Presenter**
 
-* Rstudio Presenter: (http://rpubs.com/stephen-cheng/445818)
+* Rstudio Presenter: (http://rpubs.com/stephen-cheng/449176)
 
 
 ### Dataset
